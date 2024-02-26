@@ -1,3 +1,6 @@
+  body {
+    font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", "Twemoji", "EmojiOne", sans-serif;
+  }
   .outer-container {
     max-width: 1200px;
     margin: 20px auto;
